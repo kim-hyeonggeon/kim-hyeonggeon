@@ -24,7 +24,7 @@ Welcome to my portfolio, where I showcase my [projects.](https://github.com/kim-
 
 ### 👋🏻 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/geonkim)
+- [LinkedIn](https:/www.linkedin.com/in/geonkim)
 
 
 <!--
