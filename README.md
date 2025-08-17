@@ -13,7 +13,7 @@ Please see my publications on [Google Scholar!](https://scholar.google.com/citat
 
 ## 💻 Portfolio
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kim-hyeonggeon/portfolio)
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/kim-hyeonggeon/portfolio)
 
 ## 🛠️ Tools
 
