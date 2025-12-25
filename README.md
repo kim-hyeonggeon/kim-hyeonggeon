@@ -7,6 +7,17 @@ I'm Hyeong Geon Kim, a Biomedical Data Scientist at the University of Washington
 - Dashboard Development — Built and deployed a modular HSV resistance dashboard in R Shiny with AWS integration.
 - Research Contributions — Co-authored multiple peer-reviewed publications on viral genomics, phylogenetics, and diagnostic tools.
 
+I am also a current Master's Student at the University of California - Berkeley School of Informatics working towards a MS in Information and Data Science. 
+I'm currently working on a thesis/capstone but anticipate a graduation of May, 2026 so please feel free to reach out!
+
+Things I've worked on:
+- Statistics ~ A/B testing, Power Analysis, Statistical tests (Mann-Whitey U test, Chi square, logistic regression)
+- Data Analysis ~ Graph Theory(Neo4j, Cypher), Data Storage(PostgreSQL, MySQL, MongoDB)
+- Machine Learning ~ Pytorch, Scikit-learn, Keras, ML model configurations(dropouts, learning rate), ML issue identification(Loss over time, Exploding/Vanishing Gradient)
+- Data Engineering ~ AWS deployment(fastapi, nginx), Loadbalancing(Kubernetes), Version Control(Poetry, Docker, git), Caching(redis), Loadtesting(Istio, Grafana K6), CI/CD(Pytest)
+- Natural Language Processing ~ Transformer Architecture (T5), Encoder/Decoder (BERT, GPT3), Recurrent Neural Networks, Convolutional Neural Network
+And learning more everyday...
+
 ## 📄 Publications 
 
 Please see my publications on [Google Scholar!](https://scholar.google.com/citations?user=lgfEvWgAAAAJ&hl)
