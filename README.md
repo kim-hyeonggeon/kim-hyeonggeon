@@ -15,7 +15,7 @@ Things I've worked on:
 - Data Analysis ~ Graph Theory(Neo4j, Cypher), Data Storage(PostgreSQL, MySQL, MongoDB)
 - Machine Learning ~ Pytorch, Scikit-learn, Keras, ML model configurations(dropouts, learning rate), ML issue identification(Loss over time, Exploding/Vanishing Gradient)
 - Data Engineering ~ AWS deployment(fastapi, nginx), Loadbalancing(Kubernetes), Version Control(Poetry, Docker, git), Caching(redis), Loadtesting(Istio, Grafana K6), CI/CD(Pytest, Minikube/Kubectl)
-- Natural Language Processing ~ Transformer Architecture (T5), Encoder/Decoder (BERT, GPT3), Recurrent Neural Networks, Convolutional Neural Network
+- Natural Language Processing ~ Transformer Architecture (T5), Encoder/Decoder (BERT, GPT3), Recurrent Neural Networks, Convolutional Neural Networks
 
 And learning more everyday...
 
