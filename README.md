@@ -2,10 +2,10 @@
 
 I'm Hyeong Geon Kim, a Biomedical Data Scientist at the University of Washington Virology Lab, blending data science, bioinformatics, and machine learning to drive impactful research in viral genomics and public health.
 
-- Genomic Data Analysis — Managed end-to-end workflows for 30B+ sequencing reads, including QC, anomaly detection, and sponsor-ready reports.
-- Machine Learning — Developed AI training datasets for biomedical image detection and segmentation.
-- Dashboard Development — Built and deployed a modular HSV resistance dashboard in R Shiny with AWS integration.
-- Research Contributions — Co-authored multiple peer-reviewed publications on viral genomics, phylogenetics, and diagnostic tools.
+- Genomic Data Analysis ~ Managed end-to-end workflows for 30B+ sequencing reads, including QC, anomaly detection, and sponsor-ready reports.
+- Machine Learning ~ Developed AI training datasets for biomedical image detection and segmentation.
+- Dashboard Development ~ Built and deployed a modular HSV resistance dashboard in R Shiny with AWS integration.
+- Research Contributions ~ Co-authored multiple peer-reviewed publications on viral genomics, phylogenetics, and diagnostic tools.
 
 I am also a current Master's Student at the University of California - Berkeley School of Informatics working towards a MS in Information and Data Science. 
 I'm currently working on a thesis/capstone but anticipate a graduation of May, 2026 so please feel free to reach out!
