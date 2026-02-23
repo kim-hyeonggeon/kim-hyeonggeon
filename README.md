@@ -21,7 +21,7 @@ And learning more everyday...
 
 ## 📄 Publications 
 
-Please see my publications on [Google Scholar!](https://scholar.google.com/citations?user=lgfEvWgAAAAJ&hl)
+Please see my publications on [Google Scholar!](https://scholar.google.com/citations?user=0DH8sJMAAAAJ&hl=en&authuser=1)
 
 ## 💻 Portfolio
 
