@@ -34,7 +34,7 @@ Welcome to my portfolio, where I showcase my [projects.](https://github.com/kim-
 - Database: MySQL, PostgreSQL, Neo4j
 - Vizualization: Tableau, Shiny
 
-### 👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/geonkim/)
 
