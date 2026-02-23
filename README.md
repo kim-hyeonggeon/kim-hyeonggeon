@@ -1,6 +1,6 @@
 # 🧬 Hi There
 
-I'm Hyeong Geon Kim, a Biomedical Data Scientist at the University of Washington Virology Lab, blending data science, bioinformatics, and machine learning to drive impactful research in viral genomics and public health.
+I'm Hyeong Geon Kim, a Bioinformatician at the University of Washington Virology Lab, blending data science, bioinformatics, and machine learning to drive impactful research in viral genomics and public health.
 
 - Genomic Data Analysis ~ Managed end-to-end workflows for 30B+ sequencing reads, including QC, anomaly detection, and sponsor-ready reports.
 - Machine Learning ~ Developed AI training datasets for biomedical image detection and segmentation.
